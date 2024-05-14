@@ -5,9 +5,9 @@ from tkinter import messagebox
 
 # library for images
 from PIL import Image,ImageTk
-image1='library.jpg'
-image2='library.jpg'
-image3='library.jpg'
+image1='library.png'
+image2='library.png'
+image3='library.png'
 
 import random
 import sqlite3
